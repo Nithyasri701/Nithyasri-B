@@ -1,0 +1,539 @@
+.about_main_title{
+    color: #48211F;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: var(--Inter);
+    margin: 30px 0 50px 0;
+    width: 80%;
+}
+
+.top_aboutus_row .top_aboutus_col {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.top_aboutus_row .top_aboutus_col h3{
+    background: #634E36;
+    text-align: right;
+    padding: 10px 70px 15px 0;
+    border-radius: 0 33px 32px 0;
+    color: #FCFCFC;
+    font-family: var(--Inter);
+    font-size: 28px;
+    font-weight: 500;
+    width: 75%;
+}
+
+.top_aboutus_row .top_aboutus_col p{
+    color: #000000;
+    font-family: var(--Inter);
+    font-size: 22px;
+    font-weight: 400;
+    text-align: left;
+    width: 87%;
+    margin-left: auto;
+    margin-top: 50px;
+    line-height: 40px;
+    padding-right: 50px;
+}
+
+.top_aboutus_row .top_aboutus_col .img_div{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.top_aboutus_row .top_aboutus_col .img_div img {
+    width: 100%;
+}
+
+/* ---------------------------------   vision img  ------------------------------- */
+
+.vision_aboutus_row{
+    background:rgba(72, 33, 31, 0.4);
+    margin-top: 130px;
+}
+
+.vision_aboutus_row .vision_aboutus_col{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.vision_aboutus_row .vision_aboutus_col .vision_text{
+    /* padding-left: 50px; */
+    width: 85%;
+    margin-left: auto;
+    margin-right: 50px;
+}
+
+.vision_aboutus_row .vision_aboutus_col h5{
+    color: #634E36;
+    font-family: var(--Inter);
+    font-size: 40px;
+    font-weight: 500;
+    margin-top: 50px;
+}
+
+.vision_aboutus_row .vision_aboutus_col p{
+    color: #000000;
+    font-family: var(--Inter);
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 40px;
+    margin: 30px 0 50px 0;
+}
+
+.vision_aboutus_row .vision_aboutus_col .main_vision_img{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.main_vision_img ul{
+    padding-left: 0;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+
+.main_vision_img ul .image_bottom{
+    position: relative;
+}
+
+.vision_fouth_img img{
+    position: relative;
+    top: 50%;
+    transform: translate(0,-50%);
+}
+
+.main_vision_img ul .image_bottom img{
+    position: relative;
+    top: 53%;
+}
+
+.main_vision_img > div{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.main_vision_img > div > img{
+    margin-bottom: 100px;
+}
+
+/* ---------------------------------   mission img  ------------------------------- */
+
+.mission_aboutus_row{
+    background:rgba(151, 111, 79, 0.6);
+    margin-top: 130px;
+    margin-bottom: 80px;
+
+}
+
+.mission_aboutus_row .mission_aboutus_col{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.mission_aboutus_row .mission_aboutus_col .mission_text{
+    /* padding-left: 50px; */
+    width: 85%;
+    margin-right: auto;
+    margin-left: 50px;
+}
+
+.mission_aboutus_row .mission_aboutus_col h5{
+    color: #634E36;
+    font-family: var(--Inter);
+    font-size: 40px;
+    font-weight: 500;
+    margin-top: 50px;
+}
+
+.mission_aboutus_row .mission_aboutus_col p{
+    color: #000000;
+    font-family: var(--Inter);
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 40px;
+    margin: 30px 0 50px 0;
+}
+
+.mission_aboutus_row .mission_aboutus_col .main_mission_img{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.main_mission_img ul{
+    padding-left: 0;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+
+.main_mission_img ul .image_bottom{
+    position: relative;
+}
+
+.mission_fouth_img img{
+    position: relative;
+    top: 50%;
+    transform: translate(0,-50%);
+}
+
+.main_mission_img ul .image_bottom img{
+    position: relative;
+    top: 56%;
+}
+
+.main_mission_img > div{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.main_mission_img > div > img{
+    margin-bottom: 100px;
+}
+
+.aboutus_main_div .inside_common_number_section{
+    margin-bottom: 50px;
+}
+
+.aboutus_main_div .inside_common_number_content h6 {
+    line-height: 52px;
+}
+
+.employeeJoin_aboutus_row{
+    margin-bottom: 80px;
+    margin-top: 100px;
+}
+
+.employeeJoin_aboutus_row .employeeJoin_aboutus_col {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.employeejoin_main_content{
+    padding-right: 50px;
+    width: 87%;
+    margin-left: auto;
+}
+
+.employeejoin_main_content h2{
+    color: #976F4F;
+    font-family: var(--Inter);
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.employeejoin_main_content p{
+    color: #000000;
+    font-family: var(--Inter);
+    font-size: 22px;
+    font-weight: 400;
+    text-align: left;
+    margin-top: 25px;
+    line-height: 40px;
+}
+
+.employeejoin_main_content button {
+    color: #000000;
+    font-family: var(--Inter);
+    font-size: 17px;
+    font-weight: 500;
+    background: #48211F;
+    color: #FFFFFF;
+    padding: 7px 20px;
+    border-radius: 4px;
+    margin-top: 30px;
+}
+
+.employeeJoin_aboutus_row .employeeJoin_aboutus_col .img_div{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.employeeJoin_aboutus_row .employeeJoin_aboutus_col .img_div img{
+    width: 100%;
+}
+
+.our_leadership_title{
+    color: #48211F;
+    font-size: 38px;
+    font-family: var(--Inter);
+    font-weight: 600;
+    margin-top: 50px;
+    margin-bottom: 65px;
+    text-align: center;
+}
+
+.team_members_main{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    flex-wrap: wrap;
+}
+
+.team_members_card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    width: 23%;
+}
+
+.team_members_card h3{
+    color: #000000;
+    font-size: 25px;
+    font-family: var(--Inter);
+    font-weight: 500;
+    text-align: center;
+}
+
+.team_members_card h6{
+    color: #000000;
+    font-size: 17px;
+    font-family: var(--Inter);
+    font-weight: 400;
+    text-align: center;
+}
+
+.member_img_main{
+    background: rgba(94, 85, 80, 0.68);
+    width: 205px;
+    border-radius: 62%;
+    height: 247px;
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 17px;
+}
+
+.member_img_main img{
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, 0);
+    width: 90%;
+    height: 96%;
+    object-fit: cover;
+    /* display: none; */
+}
+
+@media(max-width:1300px){
+    .mission_aboutus_row .mission_aboutus_col .mission_text {
+        /* padding-left: 50px; */
+        width: 90%;
+        margin-top: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        height: 100%;
+    }
+     .vision_aboutus_row .vision_aboutus_col .vision_text {
+        /* padding-left: 50px; */
+        width: 90%;
+        margin-top: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        height: 100%;
+        margin-left: 50px;
+    }
+
+    .main_mission_img ul li img , .main_vision_img ul li img{
+        width: 89%;
+    }
+
+    .main_mission_img > div > img {
+        margin-bottom: 78px;
+        margin-right: 0;
+        width: 96%;
+    }
+
+    .main_vision_img > div > img {
+        margin-bottom: 78px;
+        margin-left: auto;
+        width: 96%;
+    }
+
+    .main_mission_img > div {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        width: 59%;
+    }
+
+    .main_vision_img > div {
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        width: 59%;
+        margin-left: auto;
+    }
+}
+
+@media(max-width:1200px){
+    .team_members_card{
+        width: 30%;
+    }
+
+    .team_members_main {
+        gap: 34px;
+        justify-content: center;
+    }
+
+    .top_aboutus_row .top_aboutus_col .img_div {
+        height: 100%;
+    }
+        
+}
+
+@media(max-width:992px){
+    .top_aboutus_row .top_aboutus_col .img_div , .employeeJoin_aboutus_row .employeeJoin_aboutus_col .img_div img{
+        width: 55%;
+        margin: auto;
+        margin-top: 30px;
+    }
+
+    .vision_aboutus_row , .mission_aboutus_row{
+        margin-top: 100px;
+    }
+
+    .vision_aboutus_row .vision_aboutus_col .vision_text , .mission_aboutus_row .mission_aboutus_col .mission_text{
+        width: 75%;
+        margin: auto;
+    }
+
+    .vision_aboutus_row .vision_aboutus_col .main_vision_img , .mission_aboutus_row .mission_aboutus_col .main_mission_img{
+        width: 70%;
+        margin: auto;
+    }
+
+    .main_vision_img > div > img , .main_mission_img > div > img{
+        margin-bottom: 72px;
+    }
+
+    .mission_aboutus_row .mission_aboutus_col:first-child{
+        order: 2;
+    }
+
+    .mission_aboutus_row .mission_aboutus_col:last-child{
+        order: 1;
+    }
+}
+
+@media(max-width:768px){
+    .team_members_card {
+        width: 50%;
+    }
+    .team_members_main {
+        gap: 30px 0px;
+    }
+
+    .vision_aboutus_row .vision_aboutus_col .main_vision_img, .mission_aboutus_row .mission_aboutus_col .main_mission_img{
+        width: 85%;
+    }
+    .top_aboutus_row .top_aboutus_col .img_div , .employeeJoin_aboutus_row .employeeJoin_aboutus_col .img_div img{
+        width: 75%;
+    }
+}
+
+@media(max-width:576px){
+    .team_members_card {
+        width: 47%;
+    }
+    .team_members_main {
+        gap: 30px 23px;
+    }
+
+    .vision_aboutus_row .vision_aboutus_col .main_vision_img, .mission_aboutus_row .mission_aboutus_col .main_mission_img{
+        width: 100%;
+    }
+
+    .vision_aboutus_row .vision_aboutus_col .vision_text, .mission_aboutus_row .mission_aboutus_col .mission_text{
+        width: 91%;
+    }
+
+    .top_aboutus_row .top_aboutus_col p {
+        width: 98%;
+        margin-left: 8px;
+        padding-right: 10px;
+        margin-top: 32px;
+        font-size: 17px;
+        line-height: 35px;
+    }
+
+    .top_aboutus_row .top_aboutus_col .img_div , .employeeJoin_aboutus_row .employeeJoin_aboutus_col .img_div img{
+        width: 98%;
+    }
+
+    .mission_aboutus_row .mission_aboutus_col p{
+        font-size: 17px;
+    }
+    
+    .mission_aboutus_row .mission_aboutus_col h5{
+        font-size: 35px;
+    }
+
+    .inside_common_number_section{
+        margin-top: 10px;
+    }
+
+    .mission_aboutus_row{
+        margin-bottom: 38px;
+    }
+
+    .aboutus_main_div .inside_common_number_section{
+        margin-bottom: 22px;
+    }
+
+    .aboutus_main_div .inside_common_number_content h6{
+        margin-bottom: 10px;
+        line-height: 41px;
+    }
+
+    .our_leadership_title{
+        font-size: 30px;
+        margin-bottom: 40px;
+    }
+
+    .member_img_main {
+        width: 182px;
+        height: 213px;
+        margin-bottom: 17px;
+    }
+
+    .employeeJoin_aboutus_row{
+        margin-top: 50px;
+    }
+
+    .top_aboutus_row .top_aboutus_col h3 {
+        padding: 13px 30px 15px 0;
+        font-size: 24px;
+        width: 94%;
+    }
+
+    .about_main_title {
+        width: 100%;
+    }
+    
+    .employeejoin_main_content{
+        padding-right: 15px;
+        width: 98%;
+    }
+
+    .employeejoin_main_content h2{
+        font-size: 28px;
+    }
+
+    .employeejoin_main_content p{
+        font-size: 17px;
+        line-height: 35px;
+    }
+}
